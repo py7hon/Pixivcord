@@ -1,0 +1,2 @@
+# Pixivcord
+Pixiv Bot Discord
