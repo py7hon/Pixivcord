@@ -1,2 +1,2 @@
 # Pixivcord
-Pixiv Bot Discord
+run `npm install` - `npm start` or `node index.js` or use pm2
